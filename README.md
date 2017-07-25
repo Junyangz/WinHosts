@@ -3,13 +3,18 @@
 
 
 
-本批处理仅适用于windows系统，需解压后运行（即完全解压后双击运行AutoChangehosts_vX.x）
+本批处理仅适用于windows系统
 
-自动替换hosts批处理...
+```
+git clone https://github.com/junyangz/autochangehosts.git
+
+```
+
+双击AutoChangehosts_v3.3.bat自动替换hosts批处理...
 
 针对不同网络环境可以自主选择IPv6/IPv4 hosts。
 
--- 
+-
 
 脚本会自动以管理员身份运行，CMD运行后会弹出一个提示，
 
@@ -17,6 +22,7 @@
 
 
 按提示选择
+
  	1.使用IPv6-hosts
 
 	2.使用IPv4-hosts
@@ -37,4 +43,4 @@ C:\Windows\System32\drivers\etc\hosts 文件
 
 并使用ipconfig /flushdns命令清除DNS缓存！
 
---
+-
