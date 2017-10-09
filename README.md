@@ -10,7 +10,7 @@ git clone https://github.com/junyangz/autochangehosts.git
 
 ```
 
-双击AutoChangehosts_v3.3.bat自动替换hosts批处理...
+双击AutoChangehosts_v3.4.bat自动替换hosts批处理...
 
 针对不同网络环境可以自主选择IPv6/IPv4 hosts。
 
