@@ -41,4 +41,5 @@ git clone https://github.com/Junyangz/WinHosts.git
 C:\Windows\System32\drivers\etc\hosts 文件
 
 并使用ipconfig /flushdns命令清除DNS缓存！
+
 ---
