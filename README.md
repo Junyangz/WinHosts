@@ -13,7 +13,7 @@ git clone https://github.com/Junyangz/WinHosts.git
 
 针对不同网络环境可以自主选择IPv6/IPv4 hosts。
 
--
+---
 
 脚本会自动以管理员身份运行，CMD运行后会弹出一个提示，
 
@@ -41,5 +41,4 @@ git clone https://github.com/Junyangz/WinHosts.git
 C:\Windows\System32\drivers\etc\hosts 文件
 
 并使用ipconfig /flushdns命令清除DNS缓存！
-
--
+---
