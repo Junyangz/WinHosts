@@ -1,16 +1,15 @@
-# autochangehosts
+# WinHosts 
 
 
 
 
-本批处理仅适用于windows系统
-
-```
-git clone https://github.com/junyangz/autochangehosts.git
+一款简易的hosts替换脚本
 
 ```
+git clone https://github.com/Junyangz/WinHosts.git 
+```
 
-双击AutoChangehosts_v3.4.bat自动替换hosts批处理...
+双击AutoChangehosts_v3.4.bat运行自动替换hosts批处理...
 
 针对不同网络环境可以自主选择IPv6/IPv4 hosts。
 
@@ -37,7 +36,7 @@ git clone https://github.com/junyangz/autochangehosts.git
 
 输入相对应数字并回车执行命令
 
-就可以自动把文件夹下的hosts文件（或者网络下载的hosts文件）替换系统
+执行脚本会把当前文件夹下的hosts文件（或者网络下载的hosts文件）替换系统
 
 C:\Windows\System32\drivers\etc\hosts 文件
 
